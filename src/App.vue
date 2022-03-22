@@ -4,6 +4,9 @@
     <!-- <HelloWorld msg="Welcome to Your Vue.js App222"/> -->
     <h1>Hello World</h1>
     <div>this is a git tutorial 2</div>
+    <div>this is a git tutorial 2</div>
+    <div>this is a git tutorial 2</div>
+    <div>this is a git tutorial 2</div>
   </div>
 </template>
 
